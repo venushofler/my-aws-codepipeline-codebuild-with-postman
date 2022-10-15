@@ -1,0 +1,12 @@
+{
+    "name": "<report-name>",
+    "type": "TEST",
+    "exportConfig": {
+        "exportConfigType": "S3",
+        "s3Destination": {
+            "bucket": "vh-personal-bucket",
+            "path": "https://s3.amazonaws.com/vh-personal-bucket/",
+            "packaging": "NONE"
+        }
+    }
+}
