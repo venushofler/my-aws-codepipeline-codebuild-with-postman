@@ -1,5 +1,5 @@
 {
-    "name": "<report-name>",
+    "name": "reports",
     "type": "TEST",
     "exportConfig": {
         "exportConfigType": "S3",
